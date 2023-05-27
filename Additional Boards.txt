@@ -1,0 +1,4 @@
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+https://www.youtube.com/watch?v=jCL4VuFRKvQ
+https://rockjjy.tistory.com/2662
